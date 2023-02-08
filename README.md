@@ -23,4 +23,4 @@ QA Engineer
 ## 🛠 Инструменты
 *   MSSQL
 *   Postman
-*   GitHub
+*   Git/GitHub
