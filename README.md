@@ -46,6 +46,6 @@ QA Engineer
 ## 🛠 Инструменты
 *   Jira
 *   Confluence
-*   MSSQL
+*   MS SQL
 *   Git/GitHub
 *   Postman
