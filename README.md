@@ -49,3 +49,4 @@ QA Engineer
 *   MS SQL
 *   Git/GitHub
 *   Postman
+*   Charles
